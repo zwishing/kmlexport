@@ -1,0 +1,17 @@
+[general]
+name=KML导出工具
+qgisMinimumVersion=3.0
+description=将多个矢量图层导出为单个KML文件
+description[en]=Export multiple vector layers to a single KML file
+version=0.0.1
+author=zwishing
+email=zwishingbjfu@gmail.com
+
+about=这个插件提供了一个处理算法，可以将多个矢量图层导出为单个KML文件。
+about[en]=This plugin provides a processing algorithm to export multiple vector layers to a single KML file.
+
+category=Vector
+icon=icon.png
+
+experimental=False
+deprecated=False 
